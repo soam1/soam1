@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![cropped](https://user-images.githubusercontent.com/98453503/230014488-4ff614d7-a507-47c6-bdf7-ecf35cc1691f.gif)
+<h1 align="center">I'm Akash Soam</h1>
+<h4 align="center">Computer Science and Engineering student at NIT Hamirpur</h3>
+<h4 align="center"> I’m currently working on Mobile Application Development</h3>
+<hr>
 <!--
 **soam1/soam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
