@@ -3,17 +3,17 @@
 ![cropped](https://user-images.githubusercontent.com/98453503/230014488-4ff614d7-a507-47c6-bdf7-ecf35cc1691f.gif)
 <h1 align="center">I'm Akash Soam</h1>
 <h4 align="center">Computer Science and Engineering student at NIT Hamirpur</h3>
-<h4 align="center">I’m currently working on Backend development with Java and Mobile Application Development(kotlin/java/flutter)</h3>
+<h4 align="center">I’m currently working on  Mobile Application Development(kotlin/java/flutter) and learning Backend development with Java</h3>
 <hr>
 
-<!--
+
 ![cropped](https://user-images.githubusercontent.com/98453503/230014488-4ff614d7-a507-47c6-bdf7-ecf35cc1691f.gif)
 <h1 align="center">I'm Akash Soam</h1>
 <h4 align="center">Computer Science and Engineering student at NIT Hamirpur</h3>
 <h4 align="center"> I’m currently working on Application Development</h3>
 <h4 align="center"> I’m currently learning Java Backend Development</h3>
 <hr>
--->
+
 
 <h3 align="left">Languages and Tools:</h3>
 
